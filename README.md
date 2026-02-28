@@ -1,5 +1,3 @@
-### ⚡ Fun Code Cycle
-
 <div align="center">
 <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y3E2MXViYWlnMXppbHJrbzNnY3JxOTZiNjZmenQ5eXNsNzlscGFqZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/amSNX7COfkXWEIQBsz/giphy.gif" width="14%"
 />
